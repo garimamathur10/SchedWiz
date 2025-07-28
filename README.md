@@ -1,7 +1,7 @@
 📘 SchedWiz – Your AI-Powered Study Wizard
 
 SchedWiz is an AI-powered study scheduler that personalizes, adapts, and optimizes study plans to boost student productivity and academic performance. It reduces decision fatigue by transforming raw performance data into structured, intelligent learning schedules.
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________
 Overview :
 
 Many students struggle with inconsistent study habits, rigid routines, and difficulty prioritizing tasks. Traditional schedules rarely adapt to changing needs or performance. SchedWiz solves this by using machine learning and user inputs (exam dates, difficulty levels, scores) to generate dynamic, personalized study plans—instantly.
@@ -9,7 +9,7 @@ Many students struggle with inconsistent study habits, rigid routines, and diffi
 Students enter key academic details via a user-friendly Streamlit interface, and the AI responds with a customized plan that prioritizes weaker areas, upcoming exams, and user-defined preferences.
 <img width="1470" height="956" alt="Screenshot 2025-07-18 at 4 39 26 PM" src="https://github.com/user-attachments/assets/b385b58e-7225-4217-99b1-ff24e188aae2" />
 
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________
 Methodology : 
 
 SchedWiz uses a combination of machine learning, PySpark processing, and interactive UI design to deliver adaptive study plans. The system:
@@ -20,8 +20,8 @@ SchedWiz uses a combination of machine learning, PySpark processing, and interac
 - Implements an event-driven pipeline with multithreading, memory-safe task orchestration, and cache-aware scheduling logic to build efficient study timelines.
 - Applies causal inference methods (Propensity Score Matching and Difference-in-Differences) to evaluate the impact of early engagement on outcomes.
 <img width="1470" height="956" alt="Screenshot 2025-07-18 at 4 39 39 PM" src="https://github.com/user-attachments/assets/d9920a07-e76e-4ce5-aa5b-7c7219ba4053" />
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+________________________________________________________________________________________________________________________________________________________________________________________
 Results :
 
 - Achieved 73.3% test accuracy in academic performance prediction using the MLP model.
